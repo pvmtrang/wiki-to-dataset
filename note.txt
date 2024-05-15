@@ -1,0 +1,7 @@
+interlink: [[]]
+chú thích inline: {{}} ??
+skip:
+    - heading = =
+    - references section: Chú thích
+    - table section: {| |}
+    
