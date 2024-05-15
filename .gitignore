@@ -1,0 +1,9 @@
+.vscode/
+input/
+*.bin
+*.csv
+*.jpg
+.ipynb_checkpoints
+*.zip
+venv/
+__pycache__/
